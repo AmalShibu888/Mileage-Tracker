@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/NewRubrik-ExtraLight.otf",
+      "sha1": "db006a5cb5d064e735c9ef6cc60bf7ad9cf34345"
+    },
+    {
+      "path": "assets/fonts/NewRubrik-Light.otf",
+      "sha1": "1c805736433a9086f1a798b342300d5cca5aeb76"
+    },
+    {
+      "path": "assets/fonts/NewRubrik-Medium.otf",
+      "sha1": "0ee27835845dd4e38583a9c6ec4bc4ad910d1ad6"
+    },
+    {
+      "path": "assets/fonts/NewRubrik-Regular.otf",
+      "sha1": "b71b49cb366b7ad9cf5351ba2073a5ba857012ae"
+    },
+    {
+      "path": "assets/fonts/NewRubrik-SemiBold.otf",
+      "sha1": "a6e013d838f2817026cba9a4d3b0ae8525274a62"
+    }
+  ]
+}
